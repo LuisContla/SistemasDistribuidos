@@ -1,6 +1,6 @@
 # Proyecto 1
 
-Este repositorio contiene la solución a los 24 ejercicios básicos de programación en Java. Cada ejercicio incluye las instrucciones originales y el código fuente en Java. Puedes consultar todos los ejercicios en el [archivo de texto](/Ejercicios.txt) que se encuentra aquí mismo o bien revisar uno por uno en la carpeta de [Ejercicios](./Ejercicios/)
+Este repositorio contiene la solución a los 24 ejercicios básicos de programación en Java. Cada ejercicio incluye las instrucciones originales y el código fuente en Java. Puedes consultar todos los ejercicios en el [archivo de texto](./Ejercicios.txt) que se encuentra aquí mismo o bien revisar uno por uno en la carpeta de [Ejercicios](./Ejercicios/)
 
 ---
 

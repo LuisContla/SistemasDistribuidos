@@ -6,7 +6,7 @@ Repositorio con todas las actividades, tareas, clases y proyectos de la materia 
 
 ## 📋 Contenido del Repositorio
 
-### 📚 Clases
+### 📚 [Clases](./Clases/README.md)
 
 Materiales y ejercicios de cada sesión de clase:
 
@@ -29,7 +29,7 @@ Materiales y ejercicios de cada sesión de clase:
 
 ---
 
-### ✅ Tareas
+### ✅ [Tareas](./Tareas/README.md)
 
 Tareas entregadas durante el semestre:
 
@@ -41,7 +41,7 @@ Tareas entregadas durante el semestre:
 
 ---
 
-### 🎯 Proyectos
+### 🎯 [Proyectos](./Proyectos/README.md)
 
 Proyectos prácticos desarrollados:
 

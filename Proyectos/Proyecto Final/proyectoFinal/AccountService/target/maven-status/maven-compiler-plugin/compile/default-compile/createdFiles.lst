@@ -1,0 +1,6 @@
+com\mycompany\app\AccountRequest.class
+networking\WebClient.class
+com\mycompany\app\App.class
+com\mycompany\app\WebServer$AccountRequest.class
+com\mycompany\app\WebServer.class
+com\mycompany\app\AccountResponse.class

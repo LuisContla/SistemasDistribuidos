@@ -1,0 +1,8 @@
+com\mycompany\app\WebServer$LoginRequest.class
+networking\WebClient.class
+com\mycompany\app\WebServer$LoginResponse.class
+com\mycompany\app\App.class
+com\mycompany\app\LoginRequest.class
+com\mycompany\app\LoginResponse.class
+com\mycompany\app\WebServer.class
+com\mycompany\app\WebServer$RegisterRequest.class
